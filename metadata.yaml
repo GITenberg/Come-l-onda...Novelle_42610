@@ -1,0 +1,32 @@
+_repo: Come-l-onda...Novelle_42610
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42610-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2013-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42610'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Italian'
+tableOfContents: Jela -- Orrori -- Sogno vivente -- La bella bruttina -- Marito giustiziere
+  -- Il suo amore -- Ci siamo? -- L'uomo rappresentativo -- Nella pensione -- Al bivio
+  -- L'ostacolo -- Il mistero di don Ciccio.
+title: Come l'onda... Novelle
+url: http://www.gutenberg.org/ebooks/42610
